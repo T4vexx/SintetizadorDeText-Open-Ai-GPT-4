@@ -20,7 +20,7 @@ const Hero = () => {
           <span className="orange_gradient">OpenAI GPT-4</span>
         </h1>
         <h2 className="desc">
-          Simplifique sua leitura usando Sumz, uma sintetizador de texto open-source que tranforma grander artigos em textos limpos e concisos!
+          Simplifique sua leitura usando Sumz, uma sintetizador de texto open-source que transforma grandes artigos em textos limpos e concisos!
         </h2>
     </header>
   )
